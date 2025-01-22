@@ -33,7 +33,7 @@ Laravel環境構築
 
 ## ER図
 以下は本プロジェクトのER図です：
-![ER図](./pigly/test-pigly.png)
+![ER図](./test-pigly.png)
 
 ## URL
 ・開発環境：http://localhost/
